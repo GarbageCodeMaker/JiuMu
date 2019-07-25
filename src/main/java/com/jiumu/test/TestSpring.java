@@ -1,7 +1,7 @@
 package com.jiumu.test;
 
 import com.jiumu.entity.TestEntity;
-import org.junit.jupiter.api.Test;
+import org.testng.annotations.Test;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 

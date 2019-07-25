@@ -1,5 +1,11 @@
+<!DOCTYPE html>
 <html>
-<body>
-<h2>Hello World!</h2>
-</body>
+    <head>
+        <meta charset="UTF-8">
+        <title>JiuMu</title>
+
+    </head>
+    <body>
+        <h1>JiuMu</h1>
+    </body>
 </html>
